@@ -1,25 +1,20 @@
 <div align="center">
   <h1>🌙 Cathaurhel</h1>
-  <p><i>The centralized engineering and community hub dedicated to supporting and celebrating <b>Aurhel Alana Tirta</b>.</i></p>
+  <p><i>The central engineering & community hub dedicated to <b>Aurhel Alana Tirta</b>.</i></p>
 </div>
 
 ---
 
-Welcome to the **Cathaurhel** organization! This is the grand archive and development space where projects, tools, and documentation created by the LANAUTICA Fanbase reside. From membership platforms to automated voting systems, everything built here is driven by pure dedication and passion.
+Welcome to **Cathaurhel**! This organization serves as the digital home for the LANAUTICA Fanbase. Here, we build and maintain open-source projects, community tools, and automated systems to support Aurhel.
 
-## 👤 The Maintainer Behind the Curtain
-
-This organization is maintained by a quiet developer in the shadows, fueled by late-night coding sessions and an unwavering admiration for Aurhel. 
-
-While operating entirely anonymously to keep the spotlight on the community and Aurhel herself, those who traverse the GitHub seas and look closely at the commit histories might just recognize the subtle trails left behind by a certain *Emzyjeppp*.
+### 👤 About the Maintainer
+This organization is run by a passionate fan who prefers to stay behind the scenes. We focus on the community and Aurhel, keeping the spotlight where it belongs. However, if you look closely at the commit histories, you might spot the occasional footprint left by *Emzyjeppp*.
 
 > *"Code is temporary, but the dedication to the fandom is forever."*
 
 ---
 
-### 🚀 What We Do
-- **Membership Systems:** Platforms to connect fans and manage LANAUTICA memberships.
-- **Community Tools:** Interactive features like voting mechanisms, centralized links, and digital ID cards.
-- **Open Source Archives:** Safe keeping of project histories, design palettes, and community guidelines.
-
-Feel free to explore our repositories below to see what the LANAUTICA community is building!
+### 🚀 What We Build
+- 🎫 **Membership Platforms:** Connecting fans and managing LANAUTICA IDs.
+- 📊 **Community Tools:** Voting systems, integrated links, and centralized dashboards.
+- 📚 **Open Archives:** Safe keeping for project guidelines, color palettes, and histories.
