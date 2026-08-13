@@ -1,20 +1,11 @@
 <div align="center">
   <h1>🌙 Cathaurhel</h1>
-  <p><i>The central engineering & community hub dedicated to <b>Aurhel Alana Tirta</b>.</i></p>
+  <p><i>Code and tools for LANAUTICA, the fanbase of <b>Aurhel Alana Tirta</b> (Lana JKT48).</i></p>
 </div>
 
 ---
 
-Welcome to **Cathaurhel**! This organization serves as the digital home for the LANAUTICA Fanbase. Here, we build and maintain open-source projects, community tools, and automated systems to support Aurhel.
+This is the technical workspace for Lana's fanbase. We build web portals, voting systems, and whatever else the community needs to support her.
 
-### 👤 About the Maintainer
-This organization is run by a passionate fan who prefers to stay behind the scenes. We focus on the community and Aurhel, keeping the spotlight where it belongs. However, if you look closely at the commit histories, you might spot the occasional footprint left by *Emzyjeppp*.
-
-> *"Code is temporary, but the dedication to the fandom is forever."*
-
----
-
-### 🚀 What We Build
-- 🎫 **Membership Platforms:** Connecting fans and managing LANAUTICA IDs.
-- 📊 **Community Tools:** Voting systems, integrated links, and centralized dashboards.
-- 📚 **Open Archives:** Safe keeping for project guidelines, color palettes, and histories.
+### 👤 About
+Run by a fan, for the fans. We stay behind the scenes so the spotlight stays exactly where it belongs: on Lana and the community.
